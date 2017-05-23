@@ -1,0 +1,14 @@
+---
+layout: single
+title: after spending one month in the capital of costa
+date: '2016-07-27T23:02:46-06:00'
+tags:
+- costa rica
+- San José
+- love and hate
+- stupidity
+- traffic
+- problems
+tumblr_url: http://amaliewanders.tumblr.com/post/148079315714/after-spending-one-month-in-the-capital-of-costa
+---
+After spending one month in the capital of Costa Rica - San Jose - I can be brutally honest - I’m having love and hate relationship with this city and country. My hate list so far:*Street vendors here is the least annoying aspect (loud and insistent). *Traffic is terrible because it seems that everyone has their own rules, not enough crossings, so pedestrians just have to figure out how to cross a street, avoiding a long walk to the “closest” one. Moreover, pedestrians and cyclists (especially, cyclists) get treated like a minority. *The public bus schedule in the capital and routes. Mostly, no time schedules at the bus stops. And mystical route names on the bus stops. That’s why everytime I get on the bus alone, I use either Google Maps or Google Street View to check whether I’m going in the direction of my destination point. My topographical stupidity keeps returning every time I have to use the public transport. *Lack of proper address system. Mostly, streets don’t have names and buildings don’t have numbers on them. Sometimes there are names and weird numbers, but that doesn’t help much when you need to find a place. Everything is divided in areas and they are divided in districts (barrios). There are streets (calles) and avenues (avenidas). In each area, streets and avenues are numbered, so, for example, in different parts of the city there is Calle 2 or Avenida 9. One just have to follow the name of the district. Maybe I still haven’t understood it completely. The worst comes when one has to go to a certain place and there is no particular address, so, for example, it is known that the place is located in Guadalupe, on Calle 8, and it is 100m from McDonald’s and that it is next to Pancho’s house. Good luck with finding that! Even locals encounter problems when they have to go to a certain place or tell other people how to get to a certain place, so Waze app, Google Maps, and Google Street view are quite popular in here. But even equipped with those apps I have managed to get lost, and asking for directions to locals can be funny because either they are going to explain how many blocks to go (as the distance between blocks differ, I often have lost the count of blocks while crossing streets) or instruct to go straight, turn left after 25m, go for 100m and take a turn right, then again walk for 30m, and at the end of the story about all the turns and metres there’s a big confusion. I, personally, start to feel like a topographical idiot again. But, sometimes it is nice to get lost. What other way I could have found a second hand shop and bought a dress there? Ha ha.P.S. Love list will follow soon.
