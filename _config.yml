@@ -1,12 +1,5 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
-locale                   : "en_US"
+locale                   : "en"
 title                    : "AmalieWanders"
 title_separator          : "-"
 name                     : "Amalie Wanders"
@@ -18,9 +11,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : amaliewanders-com
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -150,6 +143,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+theme: minimal-mistakes-jekyll
 
 
 # Markdown Processing
